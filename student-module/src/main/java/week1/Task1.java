@@ -16,6 +16,8 @@ public class Task1 {
         } else  {
             System.out.println("Я отдыхаю");
         }
+        
+        // remove comment below
 //      Yours code...
     }
 }
